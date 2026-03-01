@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Futura, sans-serif;
+}
+
+:root {
+    --primary: hsl(2, 62%, 34%);
+    --primary-light: hsl(2, 62%, 44%);
+    --complement: hsl(182, 62%, 34%);
+    --secondary1: hsl(33, 62%, 34%);
+    --secondary2: hsl(332, 62%, 34%);
+    --tertiary1: hsl(122, 62%, 34%);
+    --tertiary2: hsl(242, 62%, 34%);
+    --quartal1: hsl(92, 62%, 34%);
+    --quartal2: hsl(182, 62%, 34%);
+    --quartal3: hsl(272, 62%, 34%);
+    --black1: hsl(0, 0%, 0%);
+    --white1: hsl(0, 0%, 100%);
+    --gray1: hsl(0, 0%, 50%)
+
+
+
+}
+
+body {
+    /*background: var(--body-bg);*/
+    /*color: var(--text-color);*/
+    min-height: 100vh;
+    transition: background 0.3s ease, color 0.3s ease;
+}
