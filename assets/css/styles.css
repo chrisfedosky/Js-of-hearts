@@ -18,10 +18,7 @@
     --quartal3: hsl(272, 62%, 34%);
     --black1: hsl(0, 0%, 0%);
     --white1: hsl(0, 0%, 100%);
-    --gray1: hsl(0, 0%, 50%)
-
-
-
+    --gray1: hsl(0, 0%, 50%);
 }
 
 body {

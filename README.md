@@ -1,3 +1,5 @@
+"a Game of Hearts"
+
 Hearts Card Game
 
 Figure out full game logic,
@@ -9,6 +11,8 @@ don't google how to build the game,
 do google logical syntax or specialized css
 to solve the puzzle
 and share something fun!
+
+ADD ACCESSIBILITY modeled for Ma-Fedosky!
 
 Hearts is a "trick-avoidance" game where the goal is to have the
 lowest score when a player reaches 100 points.
